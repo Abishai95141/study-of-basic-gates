@@ -64,19 +64,36 @@ Y= A⊕B
 
 **PROGRAM**
 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/e9f173c3-4a2c-4e6c-9f5a-11731ee8faa9)
-
-
  Developed by:ABISHAI KC RegisterNumber: 212223240002
+ ***And Gate***
+ ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/20ea9eaa-bd4f-4377-9983-39448af90e87)
  
 **Logic symbol & Truthtable**
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/a2c9ef20-4d29-470e-88f0-87db16c171d0)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/25a88e3d-2ffd-47ca-bb39-af224af9060e)
+
 
 **RTL realization Output:** 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/492ac137-dabf-4d22-bb9b-ff226d426b5e)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/44af20d0-8076-4bf0-974c-9623f01091a2)
+
 
 **RTL**
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/771dbe6e-f363-417c-8118-aadf30318441)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/a1b4406c-c4b6-4c0b-8b7a-b6126a97591a)
+
+***Or Gate***
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/4ba26ab8-960d-4524-8475-26db2716dc35)
+
+**Logic symbol & Truthtable**
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/dd560a41-fe18-4ddb-8dfc-dbad35b86183)
+
+**RTL realization Output:** 
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/cfc2c12d-b798-4f7d-83ab-4af9150ff5da)
+
+
+
+**RTL**
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/9c8c4ca9-9796-4be0-925f-06c6548a63a1)
+
+
 
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
