@@ -189,7 +189,8 @@ Y= A⊕B
 
 **Logic symbol & Truthtable**
 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/5f1e727e-7406-40bc-8a3c-c9f0b5224c80)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/5da6033c-7745-43fb-95a2-1e53b678cac5)
+
 
 
 **RTL realization Output:** 
