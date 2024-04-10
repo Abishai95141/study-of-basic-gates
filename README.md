@@ -66,9 +66,11 @@ Y= A⊕B
 
  Developed by:ABISHAI KC RegisterNumber: 212223240002
  ***And Gate***
+ 
  ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/20ea9eaa-bd4f-4377-9983-39448af90e87)
  
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/25a88e3d-2ffd-47ca-bb39-af224af9060e)
 
 
@@ -77,20 +79,24 @@ Y= A⊕B
 
 
 **RTL**
+
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/a1b4406c-c4b6-4c0b-8b7a-b6126a97591a)
 
 ***Or Gate***
+
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/4ba26ab8-960d-4524-8475-26db2716dc35)
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/dd560a41-fe18-4ddb-8dfc-dbad35b86183)
 
 **RTL realization Output:** 
+
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/cfc2c12d-b798-4f7d-83ab-4af9150ff5da)
 
 
-
 **RTL**
+
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/9c8c4ca9-9796-4be0-925f-06c6548a63a1)
 
 
