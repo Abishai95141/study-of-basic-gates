@@ -75,12 +75,12 @@ Y= A⊕B
 
 
 **RTL realization Output:** 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/44af20d0-8076-4bf0-974c-9623f01091a2)
 
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/a1b4406c-c4b6-4c0b-8b7a-b6126a97591a)
 
 **RTL**
 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/a1b4406c-c4b6-4c0b-8b7a-b6126a97591a)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/44af20d0-8076-4bf0-974c-9623f01091a2)
 
 ***Or Gate***
 
