@@ -113,12 +113,14 @@ Y= A⊕B
 
 **RTL realization Output:** 
 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/b5b4f806-7144-41a6-9974-afe70116aa40)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/16bc1aba-38b3-473d-b375-a4bf6e05a71a)
+
 
 
 **RTL**
 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/2f980129-ba2b-4186-9894-a44e3de1e380)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/2cbb161e-a3b7-4d55-b694-0703ba0777a5)
+
 
 ***NAND Gate***
 
