@@ -65,6 +65,7 @@ Y= A⊕B
 **PROGRAM**
 
  Developed by:ABISHAI KC RegisterNumber: 212223240002
+ 
  ***And Gate***
  
  ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/20ea9eaa-bd4f-4377-9983-39448af90e87)
