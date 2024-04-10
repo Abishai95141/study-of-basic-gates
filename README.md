@@ -1,4 +1,4 @@
-### study-of-basic-gates
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/d4ca9f91-a980-42b2-ae62-f8c6acb55560)### study-of-basic-gates
 
 **AIM:** 
 
@@ -98,6 +98,103 @@ Y= A⊕B
 **RTL**
 
 ![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/9c8c4ca9-9796-4be0-925f-06c6548a63a1)
+
+***Not Gate***
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/160398dc-2ecc-4fd8-965e-e938ee61bb1e)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/c2b9713a-020a-4328-915e-0dc9d50eeee3)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/b5b4f806-7144-41a6-9974-afe70116aa40)
+
+
+**RTL**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/2f980129-ba2b-4186-9894-a44e3de1e380)
+
+***NAND Gate***
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/147db95f-0490-42f3-9b07-9daed47e7ce5)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/df14dfba-370d-42e4-a0c9-62d97774d60a)
+
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/48572c81-8ab5-4138-9cf9-08e1949038a1)
+
+
+
+**RTL**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/7e0b6176-6b79-4d61-ad77-02979eb3b46e)
+
+***NOR GATE***
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/5d351dae-2a91-4898-9d91-248e62063143)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/0d6bbca1-d904-49bd-b3ab-07cc05956d9c)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/ca42f1bc-dfd6-4199-9849-dbc0929c56d4)
+
+
+
+**RTL**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/0d4eb4ae-016d-468c-b52d-597e8d914291)
+
+***EX-OR GATE***
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/ad9ac5d6-6c87-4e30-baa2-c9fefdddf11e)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/f2d4da48-9d25-42bd-a011-a23d3be4f396)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/1029a4ad-13d2-4d61-992a-ae7e82d10329)
+
+
+**RTL**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/16d97f70-f0e6-4408-9bee-02cd821e2339)
+
+***EX-NOR GATE***
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/91a00505-14db-4e4e-87ee-7ac8c3f828da)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/5f1e727e-7406-40bc-8a3c-c9f0b5224c80)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/c8cf8cad-414e-4f91-9172-7f3168bced2c)
+
+**RTL**
+
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/955cc193-153c-4e79-a530-7cb3a0fadccb)
 
 
 
