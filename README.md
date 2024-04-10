@@ -89,7 +89,8 @@ Y= A⊕B
 
 **Logic symbol & Truthtable**
 
-![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/dd560a41-fe18-4ddb-8dfc-dbad35b86183)
+![image](https://github.com/Abishai95141/study-of-basic-gates/assets/139335314/aa98ba40-3ca3-4baf-bbbd-e3a7398159a9)
+
 
 **RTL realization Output:** 
 
